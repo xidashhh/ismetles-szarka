@@ -1,4 +1,4 @@
-# [Név]
+# [Hoós Roland]
 
 
 ## Hogyan kezdj neki?

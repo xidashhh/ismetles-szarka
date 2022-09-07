@@ -1,0 +1,40 @@
+body {
+    background-color: #f0f8ff;
+    color: #0008b0;
+}
+
+
+h1, h2, h3, h4, h5, h6, a {
+    color: #DC143C;
+}
+
+.fejlec {
+    text-align: center;
+}
+
+
+.cimkepVonal{
+    width: 70%;
+}
+
+
+.kep1{
+    width: 230px;
+    height: 153px;
+    border: 1px solid black;
+}
+
+.kep2{
+    width: 230px;
+    height: 153px;
+    float: right;
+    border: 1px solid black;
+}
+
+
+.jellemzoiTablazat{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400pt;
+    
+}

@@ -1,0 +1,50 @@
+body {
+    background-color: #f0f8ff;
+    color: #0008b0;
+}
+
+
+h1, h2, h3, h4, h5, h6, a {
+    color: #DC143C;
+}
+
+.fejlec {
+    text-align: center;
+}
+
+table {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 6px;
+}
+
+td{
+    padding: 6px;
+    margin: 6px;
+}
+
+table, th, td, tr {
+    border-collapse: collapse;
+    border: none;
+}
+
+
+td:nth-child(1){
+    text-align: right;
+}
+
+tr:first-child{
+    width: 240px;
+    text-align: center;
+}
+
+td.szovegKozep:first-child {
+    text-align: center;
+}
+
+h2 {
+    color: #f0f8ff;
+    text-align: center;
+    background-color: #DC143C;
+}
